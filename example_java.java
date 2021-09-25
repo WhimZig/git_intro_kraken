@@ -1,3 +1,3 @@
 public static void main(String[] args) {
-	System.out.println("Let's gooooo");
+	System.out.println("just some text");
 }
